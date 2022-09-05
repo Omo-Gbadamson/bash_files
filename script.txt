@@ -1,0 +1,22 @@
+This is the beginning into the bash command line, I tried possible complilations and am using the vi Editors through git bash to write this in...After which I will push to my gitHub page and get a good hands on versioninig... Let's go😎:
+
+BEGINNIING
+
+-> Echo/echo: This is used to print something in the command prompt or Kernel whichever name you choose to call it.
+
+-> whoami: This one allows you to be able to tell the users of the computer, if its in default, it returns the computer name and if otherwise it returns the username.
+
+-> uname: This is like asking the computer to prints it name, basically this works well by asking the computer what is OS is running on the computer.
+
+-> ~: This is used to depict a home directory.
+
+-> -- / -: This is flagging and it used to pass a particular command to a specific keyword under the command.
+
+-> pwd: This is used to print the current working directory, i.e it shows the folder you are at the moment working on.
+
+-> cd: This is used to change from folder to folder and can be multidirected using the key "/" e.g cd documents/myfileName/to_whatever_part_you_are_going
+
+-> mkdir: This is used to create a folder in it can also multi create folders using the key "/" e.g mkdir myprojects/project1/phase1/to_whatever_amount_of_folders_to_create.
+
+
+
