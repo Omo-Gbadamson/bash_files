@@ -6,7 +6,7 @@ BEGINNIING
 
 -> whoami: This one allows you to be able to tell the users of the computer, if its in default, it returns the computer name and if otherwise it returns the username.
 
--> uname: This is like asking the computer to prints it name, basically this works well by asking the computer what is OS is running on the computer.
+-> uname: This is like asking the computer to prints it name, basically this works well by asking the computer what is OS is running on the computer. Can also accept flags e.g uname -a, it will reveal the hidden parts.
 
 -> ~: This is used to depict a home directory.
 
@@ -18,5 +18,12 @@ BEGINNIING
 
 -> mkdir: This is used to create a folder in it can also multi create folders using the key "/" e.g mkdir myprojects/project1/phase1/to_whatever_amount_of_folders_to_create.
 
+-> Still on echo, you can redirect where you want the echo message to be printed on using >> and anything that comes after automatically becomes a file filetype, and becomes the name e.g echo My name is GbadamsonSon >> Gbadamson, and you can extend its content by adding some text without altering the name assigned to the name given initially in this case Gbadamson
 
+-> ls: used to list out the items inside a particular directory, can accept flags to alter the functionalities.
 
+-> cat: This is used to read the content of any files and folders that have readable items.
+
+*NB*: Anything that starts with a "." notation cannot be seen physically, unless the containing directory has been flagged to reveal everything. Sigil ">>" is similar to the pipe "|" in terms of function 
+
+-> history: this will reveal the list of everything that has been typed.
