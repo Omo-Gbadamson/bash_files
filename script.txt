@@ -24,6 +24,13 @@ BEGINNIING
 
 -> cat: This is used to read the content of any files and folders that have readable items.
 
-*NB*: Anything that starts with a "." notation cannot be seen physically, unless the containing directory has been flagged to reveal everything. Sigil ">>" is similar to the pipe "|" in terms of function 
+*NB*: Anything that starts with a "." notation cannot be seen physically, unless the containing directory has been flagged to reveal everything. Sigil ">>" is similar to the pipe "|" in terms of function but not in all cases. 
 
 -> history: this will reveal the list of everything that has been typed.
+
+-> grep: This is used to search for a particular keyword in the bash. Can be used in different instance, directly and indirectly e.g of direct use is: grep echo and indirect usage for instance is history | grep echo
+
+-> curl: This helps us connect to the internet directly from the kernel and can also accept flags. e.g curl -L https://google.com
+[curl -L solarpunk.cool/magic/end | grep "~~*" -A2 | tail -2 >> end, curl -L solarpunk.cool/magic/end | grep "~~*" -A2 | tail -2 >> end] these are some practical case of the curl
+
+->
