@@ -33,4 +33,6 @@ BEGINNIING
 -> curl: This helps us connect to the internet directly from the kernel and can also accept flags. e.g curl -L https://google.com
 [curl -L solarpunk.cool/magic/end | grep "~~*" -A2 | tail -2 >> end, curl -L solarpunk.cool/magic/end | grep "~~*" -A2 | tail -2 >> end] these are some practical case of the curl
 
-->
+-> /etc/group: siginifes the root directory where groups are stored and managed, just like admin stuff. But this works well when one is in the root directory
+
+-> /etc/rc.0d/K07networking: shows the network configurations in the system
