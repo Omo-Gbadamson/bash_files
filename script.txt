@@ -36,3 +36,5 @@ BEGINNIING
 -> /etc/group: siginifes the root directory where groups are stored and managed, just like admin stuff. But this works well when one is in the root directory
 
 -> /etc/rc.0d/K07networking: shows the network configurations in the system
+
+N.B: head also works like cat, just that head takes flags and accepts parameters
