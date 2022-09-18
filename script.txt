@@ -38,3 +38,10 @@ BEGINNIING
 -> /etc/rc.0d/K07networking: shows the network configurations in the system
 
 N.B: head also works like cat, just that head takes flags and accepts parameters
+
+-> More will be update as we proceed with the class 
+
+-> More on bash-scripting and cronjobs/crontabs will be updated soon. I will also like to build a simple console based games in shell using the shell codes and bashing it to display in the editors of my choice 
+
+
+
